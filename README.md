@@ -1,7 +1,5 @@
 
-  # Moisture-Mate Website Development
-
-  This is a code bundle for Moisture-Mate Website Development. The original project is available at https://www.figma.com/design/wVYgWTksiBossvt7pvKK2n/Moisture-Mate-Website-Development.
+  # Moisture-Mate Website 
 
   ## Running the code
 
